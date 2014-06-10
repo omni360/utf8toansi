@@ -10,7 +10,7 @@ Get started:
 Copy the convert.exe to your working file dubole click or open the cmd window to run below command.
 
 <pre>
-convert.exe [["path"/]*.filetype] [["path"/]*.filetype] [["path"/]*.filetype] [["path"/]*.filetype] ...
+convert.exe [["path"/]*.filetype] [["path"/]*.filetype] [["path"/]*.filetype] ...
 </pre>
 
 Note:
